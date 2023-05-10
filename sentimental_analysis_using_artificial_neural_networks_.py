@@ -9,7 +9,7 @@ Original file is located at
 ## Twitter sentimetal anlysis through  a sample of "rolex watches" tweets Using Artificial Neural Networks.
 """
 
-!pip install snscrape
+pip install snscrape
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import numpy as np
